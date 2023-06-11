@@ -73,7 +73,7 @@ const defaultConfig = {
 			},
 			{
 				alias: "n",
-				name "Naver Search",
+				name: "Naver Search",
 				url: "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={}"
 			}
 		]
