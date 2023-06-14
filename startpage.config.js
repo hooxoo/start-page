@@ -139,7 +139,7 @@ const defaultConfig = {
 					},
 					{
 						name: "torrent",
-						url: "https://토렌트네임.com",
+						url: "https://토렌트큐큐.net",
 						icon: "mdi:monitor-share",
 					}
 				]
@@ -207,8 +207,8 @@ const defaultConfig = {
 						icon: "mdi:keyboard-variant",
 					},
 					{
-						name: "monkeytype",
-						url: "https://monkeytype.com",
+						name: "geonworks",
+						url: "https://smartstore.naver.com/geonlab",
 						icon: "mdi:keyboard-esc",
 					}
 				]
