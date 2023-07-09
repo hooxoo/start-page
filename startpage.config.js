@@ -126,6 +126,11 @@ const defaultConfig = {
 						name: "naver",
 						url: "https://naver.com",
 						icon: "mdi:syllabary-hangul",
+					},					
+					{
+						name: "icloud",
+						url: "https://www.icloud.com",
+						icon: "mdi:apple-icloud",
 					},
 					{
 						name: "github",
