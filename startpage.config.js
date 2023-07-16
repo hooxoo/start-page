@@ -133,6 +133,11 @@ const defaultConfig = {
 						icon: "mdi:apple-icloud",
 					},
 					{
+						name: "snapdrop",
+						url: "https://www.snapdrop.net",
+						icon: "mdi:share-variant",
+					},
+					{
 						name: "github",
 						url: "https://github.com",
 						icon: "mdi:github",
@@ -146,38 +151,6 @@ const defaultConfig = {
 						name: "torrent",
 						url: "https://토렌트큐큐.net",
 						icon: "mdi:monitor-share",
-					}
-				]
-			},
-			{
-				title: "Entertainment",
-				color: "red",
-				align: "left",
-				links: [
-					{
-						name: "youtube",
-						url: "https://youtube.com",
-						icon: "mdi:youtube",
-					},
-					{
-						name: "netflix",
-						url: "https://netflix.com",
-						icon: "mdi:netflix",
-					},
-					{
-						name: "disney+",
-						url: "https://www.disneyplus.com/ko-kr/home",
-						icon: "mdi:rodent",
-					},
-					{
-						name: "coupang-play",
-						url: "https://www.coupangplay.com/home",
-						icon: "mdi:motion-play-outline",
-					},
-					{
-						name: "mma",
-						url: "https://kktv365.com",
-						icon: "mdi:mixed-martial-arts",
 					}
 				]
 			},
@@ -215,6 +188,38 @@ const defaultConfig = {
 						name: "geonworks",
 						url: "https://smartstore.naver.com/geonlab",
 						icon: "mdi:keyboard-esc",
+					}
+				]
+			},
+			{
+				title: "Entertainment",
+				color: "red",
+				align: "left",
+				links: [
+					{
+						name: "youtube",
+						url: "https://youtube.com",
+						icon: "mdi:youtube",
+					},
+					{
+						name: "netflix",
+						url: "https://netflix.com",
+						icon: "mdi:netflix",
+					},
+					{
+						name: "disney+",
+						url: "https://www.disneyplus.com/ko-kr/home",
+						icon: "mdi:rodent",
+					},
+					{
+						name: "coupang-play",
+						url: "https://www.coupangplay.com/home",
+						icon: "mdi:motion-play-outline",
+					},
+					{
+						name: "mma",
+						url: "https://kktv365.com",
+						icon: "mdi:mixed-martial-arts",
 					}
 				]
 			}
