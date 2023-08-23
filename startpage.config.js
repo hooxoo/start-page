@@ -58,8 +58,8 @@ const defaultConfig = {
 	},
 	urlLaunch: {
 		target: "_self",
-		defaultColor: "white",
-		hoverColor: "violet"
+		defaultColor: "gray",
+		hoverColor: "white"
 	},
 	search: {
 		default: "https://google.com/search?q=",
@@ -82,7 +82,7 @@ const defaultConfig = {
 		list: [
 			{
 				title: "Community",
-				color: "blue",
+				color: "red",
 				align: "left",
 				links: [
 					{
@@ -119,7 +119,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Search",
-				color: "green",
+				color: "red",
 				align: "left",
 				links: [
 					{
@@ -157,7 +157,7 @@ const defaultConfig = {
 			{
 				title: "Keebs",
 				color: "violet",
-				align: "left",
+				align: "red",
 				links: [
 					{
 						name: "swagkey",
