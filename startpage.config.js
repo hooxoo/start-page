@@ -85,7 +85,7 @@ const defaultConfig = {
 				color: "blue",
 				align: "left",
 				links: [
-					{					
+					{
 						name: "etoland",
 						url: "https://etoland.co.kr",
 						icon: "mdi:alpha-e-box-outline",
@@ -126,7 +126,7 @@ const defaultConfig = {
 						name: "naver",
 						url: "https://naver.com",
 						icon: "mdi:syllabary-hangul",
-					},					
+					},
 					{
 						name: "icloud",
 						url: "https://www.icloud.com",
@@ -165,9 +165,9 @@ const defaultConfig = {
 						icon: "mdi:keyboard",
 					},
 					{
-						name: "greenfield",
-						url: "https://smartstore.naver.com/greenfield_",
-						icon: "mdi:apple-keyboard-option",
+						name: "geonworks",
+						url: "https://smartstore.naver.com/geonlab",
+						icon: "mdi:keyboard-esc",
 					},
 					{
 						name: "monstargear",
@@ -175,19 +175,19 @@ const defaultConfig = {
 						icon: "mdi:apple-keyboard-command",
 					},
 					{
+						name: "greenfield",
+						url: "https://smartstore.naver.com/greenfield_",
+						icon: "mdi:apple-keyboard-option",
+					},
+					{
 						name: "letsget-it",
 						url: "https://smartstore.naver.com/letsget1t",
 						icon: "mdi:keyboard-caps",
 					},
 					{
-						name: "saopao",
-						url: "https://smartstore.naver.com/saopao",
+						name: "monkeytype",
+						url: "https://monkeytype.com",
 						icon: "mdi:keyboard-variant",
-					},
-					{
-						name: "geonworks",
-						url: "https://smartstore.naver.com/geonlab",
-						icon: "mdi:keyboard-esc",
 					}
 				]
 			},
