@@ -156,8 +156,8 @@ const defaultConfig = {
 			},
 			{
 				title: "Keebs",
-				color: "violet",
-				align: "red",
+				color: "red",
+				align: "left",
 				links: [
 					{
 						name: "swagkey",
