@@ -32,7 +32,7 @@ const defaultConfig = {
 		placeholder: "command...",
 		placeholderColor: "gray",
 		userColor: "white",
-		atColor: "red",
+		atColor: "magenta",
 		hostColor: "gray",
 		promptColor: "white",
 		promptSymbol: "❯",
@@ -82,7 +82,7 @@ const defaultConfig = {
 		list: [
 			{
 				title: "Community",
-				color: "red",
+				color: "blue",
 				align: "left",
 				links: [
 					{
@@ -119,7 +119,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Search",
-				color: "red",
+				color: "green",
 				align: "left",
 				links: [
 					{
@@ -146,17 +146,12 @@ const defaultConfig = {
 						name: "coupang",
 						url: "https://coupang.com",
 						icon: "mdi:cart",
-					},
-					{
-						name: "torrent",
-						url: "https://토렌트큐큐.net",
-						icon: "mdi:monitor-share",
 					}
 				]
 			},
 			{
 				title: "Keebs",
-				color: "red",
+				color: "yellow",
 				align: "left",
 				links: [
 					{
@@ -205,11 +200,6 @@ const defaultConfig = {
 						name: "netflix",
 						url: "https://netflix.com",
 						icon: "mdi:netflix",
-					},
-					{
-						name: "disney+",
-						url: "https://www.disneyplus.com/ko-kr/home",
-						icon: "mdi:rodent",
 					},
 					{
 						name: "coupang-play",
