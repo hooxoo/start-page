@@ -218,7 +218,7 @@ const defaultConfig = {
 					},
 					{
 						name: "mma",
-						url: "https://kktv365.com",
+						url: "https://kktv05.com",
 						icon: "mdi:mixed-martial-arts",
 					}
 				]
