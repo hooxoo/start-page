@@ -207,6 +207,11 @@ const defaultConfig = {
 						icon: "mdi:motion-play-outline",
 					},
 					{
+						name: "tv-room",
+						url: "https://xn--jt2bx0hu7u.com/",
+						icon: "mdi:tv-box",
+					},
+					{
 						name: "mma",
 						url: "https://kktv05.com",
 						icon: "mdi:mixed-martial-arts",
