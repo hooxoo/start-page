@@ -202,6 +202,11 @@ const defaultConfig = {
 						icon: "mdi:netflix",
 					},
 					{
+						name: "disney+",
+						url: "https://www.disneyplus.com/ko-kr/home",
+						icon: "mdi:video-vintage",
+					},
+					{
 						name: "coupang-play",
 						url: "https://www.coupangplay.com/home",
 						icon: "mdi:motion-play-outline",
