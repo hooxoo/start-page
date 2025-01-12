@@ -57,13 +57,13 @@ const defaultConfig = {
 		]
 	},
 	urlLaunch: {
-		target: "_blank",
+		target: "_self",
 		defaultColor: "gray",
 		hoverColor: "white"
 	},
 	search: {
 		default: "https://google.com/search?q=",
-		target: "_blank",
+		target: "_self",
 		shortcutRegex: "([A-Za-z0-9]+) (.*)",
 		shortcuts: [
 			{
