@@ -106,8 +106,8 @@ const defaultConfig = {
 						icon: "mdi:reddit",
 					},
 					{
-						name: "clien",
-						url: "https://clien.net",
+						name: "damonag",
+						url: "https://damoang.net/",
 						icon: "mdi:alpha-c-circle-outline",
 					},
 					{
@@ -131,11 +131,6 @@ const defaultConfig = {
 						name: "icloud",
 						url: "https://www.icloud.com",
 						icon: "mdi:apple-icloud",
-					},
-					{
-						name: "snapdrop",
-						url: "https://www.snapdrop.net",
-						icon: "mdi:share-variant",
 					},
 					{
 						name: "github",
