@@ -108,7 +108,7 @@ const defaultConfig = {
 					{
 						name: "damoang",
 						url: "https://damoang.net/",
-						icon: "mdi:alpha-c-circle-outline",
+						icon: "mdi:account-group",
 					},
 					{
 						name: "windowsforum",
