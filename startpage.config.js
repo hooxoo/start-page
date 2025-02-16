@@ -31,10 +31,10 @@ const defaultConfig = {
 		ctrlC: true,
 		placeholder: "command...",
 		placeholderColor: "gray",
-		userColor: "white",
-		atColor: "red",
+		userColor: "gray",
+		atColor: "white",
 		hostColor: "gray",
-		promptColor: "white",
+		promptColor: "red",
 		promptSymbol: "❯",
 		caretColor: "white",
 		selectionBg: "red",
@@ -58,7 +58,7 @@ const defaultConfig = {
 	},
 	urlLaunch: {
 		target: "_self",
-		defaultColor: "white",
+		defaultColor: "gray",
 		hoverColor: "red"
 	},
 	search: {
