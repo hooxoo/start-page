@@ -1,19 +1,19 @@
 const defaultConfig = {
 	username: "hooxoo",
 	theme: {
-		backgroundColor: "#18181a",
-		windowColor: "#18181a",
+		backgroundColor: "#161616",
+		windowColor: "#161616",
 		glowColor: "#3d46687d",
-		white: "#fffff2",
-		gray: "#949494",
-		black: "#212121",
-		red: "#e4609b",
+		white: "#f2f4f8",
+		gray: "#525252",
+		black: "#262626",
+		red: "#ee5396",
 		green: "#a7c080",
 		yellow: "#dbbc7f",
 		blue: "#7fbbb3",
 		cyan: "#83c092",
-		magenta: "#e69875",
-		violet: "#d699b6",
+		magenta: "#ff7eb6",
+		violet: "#be95ff",
 		orange: "#e69875"
 	},
 	wallpaper: {
@@ -32,7 +32,7 @@ const defaultConfig = {
 		placeholder: "command...",
 		placeholderColor: "gray",
 		userColor: "white",
-		atColor: "magenta",
+		atColor: "red",
 		hostColor: "gray",
 		promptColor: "white",
 		promptSymbol: "❯",
@@ -58,8 +58,8 @@ const defaultConfig = {
 	},
 	urlLaunch: {
 		target: "_self",
-		defaultColor: "gray",
-		hoverColor: "white"
+		defaultColor: "white",
+		hoverColor: "red"
 	},
 	search: {
 		default: "https://google.com/search?q=",
@@ -82,7 +82,7 @@ const defaultConfig = {
 		list: [
 			{
 				title: "Community",
-				color: "blue",
+				color: "white",
 				align: "left",
 				links: [
 					{
@@ -106,7 +106,7 @@ const defaultConfig = {
 						icon: "mdi:reddit",
 					},
 					{
-						name: "damonag",
+						name: "damoang",
 						url: "https://damoang.net/",
 						icon: "mdi:alpha-c-circle-outline",
 					},
@@ -119,7 +119,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Search",
-				color: "green",
+				color: "white",
 				align: "left",
 				links: [
 					{
@@ -146,7 +146,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Keebs",
-				color: "yellow",
+				color: "white",
 				align: "left",
 				links: [
 					{
@@ -183,7 +183,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Entertainment",
-				color: "red",
+				color: "white",
 				align: "left",
 				links: [
 					{
