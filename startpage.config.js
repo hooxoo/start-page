@@ -199,7 +199,7 @@ const defaultConfig = {
 					{
 						name: "disney+",
 						url: "https://www.disneyplus.com/ko-kr/home",
-						icon: "mdi:video-vintage",
+						icon: "cbi:disney-plus",
 					},
 					{
 						name: "coupang-play",
