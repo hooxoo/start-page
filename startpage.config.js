@@ -1,14 +1,14 @@
 const defaultConfig = {
 	username: "hooxoo",
 	theme: {
-		backgroundColor: "#161616",
+		backgroundColor: "#1c1c1c",
 		windowColor: "#161616",
 		glowColor: "#3d46687d",
-		white: "#f2f4f8",
-		gray: "#525252",
+		white: "#deeeed",
+		gray: "#303030",
 		black: "#262626",
 		red: "#ee5396",
-		green: "#a7c080",
+		green: "#1bfd9c",
 		yellow: "#dbbc7f",
 		blue: "#7fbbb3",
 		cyan: "#83c092",
@@ -34,10 +34,10 @@ const defaultConfig = {
 		userColor: "gray",
 		atColor: "white",
 		hostColor: "gray",
-		promptColor: "red",
+		promptColor: "green",
 		promptSymbol: "❯",
 		caretColor: "white",
-		selectionBg: "red",
+		selectionBg: "green
 		selectionFg: "black"
 	},
 	fetch: {
@@ -59,7 +59,7 @@ const defaultConfig = {
 	urlLaunch: {
 		target: "_self",
 		defaultColor: "gray",
-		hoverColor: "red"
+		hoverColor: "white"
 	},
 	search: {
 		default: "https://google.com/search?q=",
@@ -82,7 +82,7 @@ const defaultConfig = {
 		list: [
 			{
 				title: "Community",
-				color: "white",
+				color: "green",
 				align: "left",
 				links: [
 					{
@@ -119,7 +119,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Search",
-				color: "white",
+				color: "green",
 				align: "left",
 				links: [
 					{
@@ -138,6 +138,11 @@ const defaultConfig = {
 						icon: "mdi:github",
 					},
 					{
+						name: "ooAI",
+						url: "https://oo.ai",
+						icon: "mdi:at",
+					},
+					{
 						name: "coupang",
 						url: "https://coupang.com",
 						icon: "mdi:cart",
@@ -146,7 +151,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Keebs",
-				color: "white",
+				color: "green",
 				align: "left",
 				links: [
 					{
@@ -183,7 +188,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Entertainment",
-				color: "white",
+				color: "green",
 				align: "left",
 				links: [
 					{
