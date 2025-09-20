@@ -201,11 +201,11 @@ const defaultConfig = {
 						url: "https://netflix.com",
 						icon: "mdi:netflix",
 					},
-					{
-						name: "disney+",
-						url: "https://www.disneyplus.com/ko-kr/home",
-						icon: "cbi:disney-plus",
-					},
+					// {
+					// 	name: "disney+",
+					// 	url: "https://www.disneyplus.com/ko-kr/home",
+					// 	icon: "cbi:disney-plus",
+					// },
 					{
 						name: "coupang-play",
 						url: "https://www.coupangplay.com/home",
