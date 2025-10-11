@@ -1,20 +1,20 @@
 const defaultConfig = {
 	username: "hooxoo",
 	theme: {
-		backgroundColor: "#1c1c1c",
-		windowColor: "#161616",
+		backgroundColor: "#2e3440",
+		windowColor: "#2e3440",
 		glowColor: "#3d46687d",
-		white: "#deeeed",
-		gray: "#303030",
-		black: "#262626",
-		red: "#ee5396",
-		green: "#1bfd9c",
-		yellow: "#dbbc7f",
-		blue: "#7fbbb3",
-		cyan: "#83c092",
-		magenta: "#ff7eb6",
+		white: "#eceff4",
+		gray: "#d8dee9",
+		black: "#3b4252",
+		red: "#bf616a",
+		green: "#a3be8c",
+		yellow: "#ebcb8b",
+		blue: "#81a1c1",
+		cyan: "#88c0d0",
+		magenta: "#b48ead",
 		violet: "#be95ff",
-		orange: "#e69875"
+		orange: "#d08770"
 	},
 	wallpaper: {
 		url: "",
@@ -23,7 +23,7 @@ const defaultConfig = {
 		blur: true
 	},
 	terminal: {
-		fixedHeight: true,
+		fixedHeight: false,
 		windowGlow: false,
 		textGlow: false
 	},
@@ -32,9 +32,9 @@ const defaultConfig = {
 		placeholder: "command...",
 		placeholderColor: "gray",
 		userColor: "gray",
-		atColor: "white",
+		atColor: "yellow",
 		hostColor: "gray",
-		promptColor: "green",
+		promptColor: "magenta",
 		promptSymbol: "❯",
 		caretColor: "white",
 		selectionBg: "green",
@@ -59,7 +59,7 @@ const defaultConfig = {
 	urlLaunch: {
 		target: "_self",
 		defaultColor: "gray",
-		hoverColor: "white"
+		hoverColor: "magenta"
 	},
 	search: {
 		default: "https://google.com/search?q=",
@@ -82,7 +82,7 @@ const defaultConfig = {
 		list: [
 			{
 				title: "Community",
-				color: "green",
+				color: "blue",
 				align: "left",
 				links: [
 					{
@@ -151,7 +151,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Keebs",
-				color: "green",
+				color: "yellow",
 				align: "left",
 				links: [
 					{
@@ -188,7 +188,7 @@ const defaultConfig = {
 			},
 			{
 				title: "Entertainment",
-				color: "green",
+				color: "red",
 				align: "left",
 				links: [
 					{
