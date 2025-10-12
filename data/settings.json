@@ -2,51 +2,51 @@
 	"username": "hooxoo",
 	"title": "Home",
 	"theme": {
-		backgroundColor: "#2e3440",
-		windowColor: "#2e3440",
-		glowColor: "#3d46687d",
-		white: "#eceff4",
-		gray: "#d8dee9",
-		black: "#3b4252",
-		red: "#bf616a",
-		green: "#a3be8c",
-		yellow: "#ebcb8b",
-		blue: "#81a1c1",
-		cyan: "#88c0d0",
-		magenta: "#b48ead",
-		violet: "#be95ff",
-		orange: "#d08770"
+		"backgroundColor": "#2e3440",
+		"windowColor": "#2e3440",
+		"glowColor": "#3d46687d",
+		"white": "#eceff4",
+		"gray": "#d8dee9",
+		"black": "#3b4252",
+		"red": "#bf616a",
+		"green": "#a3be8c",
+		"yellow": "#ebcb8b",
+		"blue": "#81a1c1",
+		"cyan": "#88c0d0",
+		"magenta": "#b48ead",
+		"violet": "#be95ff",
+		"orange": "#d08770"
 	},
 	"wallpaper": {
-		url: "",
-		easing: "ease-in-out",
-		fadeIn: true,
-		blur: true
+		"url": "",
+		"easing": "ease-in-out",
+		"fadeIn": false,
+		"blur": false
 	},
 	"terminal": {
-		fixedHeight: false,
-		windowGlow: false,
-		textGlow: false
+		"fixedHeight": false,
+		"windowGlow": false,
+		"textGlow": false
 	},
 	"prompt": {
-		ctrlC: true,
-		placeholder: "command...",
-		placeholderColor: "gray",
-		userColor: "gray",
-		atColor: "yellow",
-		hostColor: "gray",
-		promptColor: "magenta",
-		promptSymbol: "❯",
-		caretColor: "white",
-		selectionBg: "green",
-		selectionFg: "black"
+		"ctrlC": true,
+		"placeholder": "command...",
+		"placeholderColor": "gray",
+		"userColor": "gray",
+		"atColor": "yellow",
+		"hostColor": "gray",
+		"promptColor": "magenta",
+		"promptSymbol": "❯",
+		"caretColor": "white",
+		"selectionBg": "green",
+		"selectionFg": "black"
 	},
 	"fetch": {
-		timeFormat: "HH:mm",
-		dateFormat: "DD/MM/YYYY",
-		titleColor: "yellow",
-		image: "icon.svg",
-		data: [
+		"timeFormat": "HH:mm",
+		"dateFormat": "DD/MM/YYYY",
+		"titleColor": "yellow",
+		"image": "icon.svg",
+		"data": [
 			"Time: {time}",
 			"Date: {date}",
 			"{seperator}",
@@ -58,8 +58,8 @@
 		]
 	},
 	"urlLaunch": {
-		target: "_self",
-		hoverColor: "magenta"
+		"target": "_self",
+		"hoverColor": "magenta"
 	},
 	"search": {
 		"default": "https://google.com/search?q=",
