@@ -1,6 +1,7 @@
 {
-	username: "hooxoo",
-	theme: {
+	"username"": "hooxoo",
+	"title": "Home",
+	"theme"": {
 		backgroundColor: "#2e3440",
 		windowColor: "#2e3440",
 		glowColor: "#3d46687d",
@@ -16,18 +17,18 @@
 		violet: "#be95ff",
 		orange: "#d08770"
 	},
-	wallpaper: {
+	"wallpaper": {
 		url: "",
 		easing: "ease-in-out",
 		fadeIn: true,
 		blur: true
 	},
-	terminal: {
+	"terminal": {
 		fixedHeight: false,
 		windowGlow: false,
 		textGlow: false
 	},
-	prompt: {
+	"prompt": {
 		ctrlC: true,
 		placeholder: "command...",
 		placeholderColor: "gray",
@@ -40,7 +41,7 @@
 		selectionBg: "green",
 		selectionFg: "black"
 	},
-	fetch: {
+	"fetch": {
 		timeFormat: "HH:mm",
 		dateFormat: "DD/MM/YYYY",
 		titleColor: "yellow",
@@ -56,170 +57,164 @@
 			"{colors}"
 		]
 	},
-	urlLaunch: {
+	"urlLaunch": {
 		target: "_self",
-		defaultColor: "gray",
 		hoverColor: "magenta"
 	},
-	search: {
-		default: "https://google.com/search?q=",
-		target: "_self",
-		shortcutRegex: "([A-Za-z0-9]+) (.*)",
-		shortcuts: [
+	"search": {
+		"default": "https://google.com/search?q=",
+		"target": "_self",
+		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
+		"shortcuts": [
 			{
-				alias: "g",
-				name: "Google Search",
-				url: "https://google.com/search?q={}"
+				"alias": "g",
+				"name": "Google Search",
+				"url": "https://google.com/search?q={}"
 			},
 			{
-				alias: "n",
-				name: "Naver Search",
-				url: "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={}"
+				"alias": "n",
+				"name": "Naver Search",
+				"url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={}"
 			}
 		]
 	},
-	sections: {
-		list: [
+	"sections": {
+		"list": [
 			{
-				title: "Community",
-				color: "blue",
-				align: "left",
-				links: [
+				"title": "Community",
+				"color": "blue",
+				"align": "left",
+				"links": [
 					{
-						name: "etoland",
-						url: "https://etoland.co.kr",
-						icon: "mdi:alpha-e-box-outline",
+						"name": "etoland",
+						"url": "https://etoland.co.kr",
+						"icon": "mdi:alpha-e-box-outline",
 					},
 					{
-						name: "evape",
-						url: "https://evape.kr",
-						icon: "mdi:smoke",
+						"name": "evape",
+						"url": "https://evape.kr",
+						"icon": "mdi:smoke",
 					},
 					{
-						name: "discord",
-						url: "https://discord.com/app",
-						icon: "ic:baseline-discord",
+						"name": "discord",
+						"url": "https://discord.com/app",
+						"icon": "ic:baseline-discord",
 					},
 					{
-						name: "reddit",
-						url: "https://reddit.com",
-						icon: "mdi:reddit",
+						"name": "reddit",
+						"url": "https://reddit.com",
+						"icon": "mdi:reddit",
 					},
 					{
-						name: "damoang",
-						url: "https://damoang.net/",
-						icon: "mdi:account-group",
+						"name": "damoang",
+						"url": "https://damoang.net/",
+						"icon": "mdi:account-group",
 					},
 					{
-						name: "windowsforum",
-						url: "https://windowsforum.kr",
-						icon: "mdi:microsoft-windows",
+						"name": "windowsforum",
+						"url": "https://windowsforum.kr",
+						"icon": "mdi:microsoft-windows",
 					}
 				]
 			},
 			{
-				title: "Search",
-				color: "green",
-				align: "left",
-				links: [
+				"title": "Search",
+				"color": "green",
+				"align": "left",
+				"links": [
 					{
-						name: "naver",
-						url: "https://naver.com",
-						icon: "mdi:syllabary-hangul",
+						"name": "naver",
+						"url": "https://naver.com",
+						"icon": "mdi:syllabary-hangul",
 					},
 					{
-						name: "icloud",
-						url: "https://www.icloud.com",
-						icon: "mdi:apple-icloud",
+						"name": "icloud",
+						"url": "https://www.icloud.com",
+						"icon": "mdi:apple-icloud",
 					},
 					{
-						name: "github",
-						url: "https://github.com",
-						icon: "mdi:github",
+						"name": "github",
+						"url": "https://github.com",
+						"icon": "mdi:github",
 					},
 					{
-						name: "ooAI",
-						url: "https://oo.ai",
-						icon: "mdi:at",
+						"name": "ooAI",
+						"url": "https://oo.ai",
+						"icon": "mdi:at",
 					},
 					{
-						name: "coupang",
-						url: "https://coupang.com",
-						icon: "mdi:cart",
+						"name": "coupang",
+						"url": "https://coupang.com",
+						"icon": "mdi:cart",
 					}
 				]
 			},
 			{
-				title: "Keebs",
-				color: "yellow",
-				align: "left",
-				links: [
+				"title": "Keebs",
+				"color": "yellow",
+				"align": "left",
+				"links": [
 					{
-						name: "swagkey",
-						url: "https://smartstore.naver.com/swagkey",
-						icon: "mdi:keyboard",
+						"name": "swagkey",
+						"url": "https://smartstore.naver.com/swagkey",
+						"icon": "mdi:keyboard",
 					},
 					{
-						name: "geonworks",
-						url: "https://smartstore.naver.com/geonlab",
-						icon: "mdi:keyboard-esc",
+						"name": "geonworks",
+						"url": "https://smartstore.naver.com/geonlab",
+						"icon": "mdi:keyboard-esc",
 					},
 					{
-						name: "monstargear",
-						url: "https://smartstore.naver.com/monstarkorea",
-						icon: "mdi:apple-keyboard-command",
+						"name": "monstargear",
+						"url": "https://smartstore.naver.com/monstarkorea",
+						"icon": "mdi:apple-keyboard-command",
 					},
 					{
-						name: "greenfield",
-						url: "https://smartstore.naver.com/greenfield_",
-						icon: "mdi:apple-keyboard-option",
+						"name": "greenfield",
+						"url": "https://smartstore.naver.com/greenfield_",
+						"icon": "mdi:apple-keyboard-option",
 					},
 					{
-						name: "letsget-it",
-						url: "https://smartstore.naver.com/letsget1t",
-						icon: "mdi:keyboard-caps",
+						"name": "letsget-it",
+						"url": "https://smartstore.naver.com/letsget1t",
+						"icon": "mdi:keyboard-caps",
 					},
 					{
-						name: "monkeytype",
-						url: "https://monkeytype.com",
-						icon: "mdi:keyboard-variant",
+						"name": "monkeytype",
+						"url": "https://monkeytype.com",
+						"icon": "mdi:keyboard-variant",
 					}
 				]
 			},
 			{
-				title: "Entertainment",
-				color: "red",
-				align: "left",
-				links: [
+				"title": "Entertainment",
+				"color": "red",
+				"align": "left",
+				"links": [
 					{
-						name: "youtube",
-						url: "https://youtube.com",
-						icon: "mdi:youtube",
+						"name": "youtube",
+						"url": "https://youtube.com",
+						"icon": "mdi:youtube",
 					},
 					{
-						name: "netflix",
-						url: "https://netflix.com",
-						icon: "mdi:netflix",
-					},
-					// {
-					// 	name: "disney+",
-					// 	url: "https://www.disneyplus.com/ko-kr/home",
-					// 	icon: "cbi:disney-plus",
-					// },
-					{
-						name: "coupang-play",
-						url: "https://www.coupangplay.com/home",
-						icon: "mdi:motion-play-outline",
+						"name": "netflix",
+						"url": "https://netflix.com",
+						"icon": "mdi:netflix",
 					},
 					{
-						name: "tv-room",
-						url: "https://xn--jt2bx0hu7u.com/",
-						icon: "mdi:tv-box",
+						"name": "coupang-play",
+						"url": "https://www.coupangplay.com/home",
+						"icon": "mdi:motion-play-outline",
 					},
 					{
-						name: "mma",
-						url: "https://kktv05.com",
-						icon: "mdi:mixed-martial-arts",
+						"name": "tv-room",
+						"url": "https://xn--jt2bx0hu7u.com/",
+						"icon": "mdi:tv-box",
+					},
+					{
+						"name": "mma",
+						"url": "https://kktv05.com",
+						"icon": "mdi:mixed-martial-arts"
 					}
 				]
 			}
