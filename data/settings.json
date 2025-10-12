@@ -88,32 +88,32 @@
 					{
 						"name": "etoland",
 						"url": "https://etoland.co.kr",
-						"icon": "mdi:alpha-e-box-outline",
+						"icon": "mdi:alpha-e-box-outline"
 					},
 					{
 						"name": "evape",
 						"url": "https://evape.kr",
-						"icon": "mdi:smoke",
+						"icon": "mdi:smoke"
 					},
 					{
 						"name": "discord",
 						"url": "https://discord.com/app",
-						"icon": "ic:baseline-discord",
+						"icon": "ic:baseline-discord"
 					},
 					{
 						"name": "reddit",
 						"url": "https://reddit.com",
-						"icon": "mdi:reddit",
+						"icon": "mdi:reddit"
 					},
 					{
 						"name": "damoang",
 						"url": "https://damoang.net/",
-						"icon": "mdi:account-group",
+						"icon": "mdi:account-group"
 					},
 					{
 						"name": "windowsforum",
 						"url": "https://windowsforum.kr",
-						"icon": "mdi:microsoft-windows",
+						"icon": "mdi:microsoft-windows"
 					}
 				]
 			},
@@ -125,27 +125,27 @@
 					{
 						"name": "naver",
 						"url": "https://naver.com",
-						"icon": "mdi:syllabary-hangul",
+						"icon": "mdi:syllabary-hangul"
 					},
 					{
 						"name": "icloud",
 						"url": "https://www.icloud.com",
-						"icon": "mdi:apple-icloud",
+						"icon": "mdi:apple-icloud"
 					},
 					{
 						"name": "github",
 						"url": "https://github.com",
-						"icon": "mdi:github",
+						"icon": "mdi:github"
 					},
 					{
 						"name": "ooAI",
 						"url": "https://oo.ai",
-						"icon": "mdi:at",
+						"icon": "mdi:at"
 					},
 					{
 						"name": "coupang",
 						"url": "https://coupang.com",
-						"icon": "mdi:cart",
+						"icon": "mdi:cart"
 					}
 				]
 			},
@@ -157,32 +157,32 @@
 					{
 						"name": "swagkey",
 						"url": "https://smartstore.naver.com/swagkey",
-						"icon": "mdi:keyboard",
+						"icon": "mdi:keyboard"
 					},
 					{
 						"name": "geonworks",
 						"url": "https://smartstore.naver.com/geonlab",
-						"icon": "mdi:keyboard-esc",
+						"icon": "mdi:keyboard-esc"
 					},
 					{
 						"name": "monstargear",
 						"url": "https://smartstore.naver.com/monstarkorea",
-						"icon": "mdi:apple-keyboard-command",
+						"icon": "mdi:apple-keyboard-command"
 					},
 					{
 						"name": "greenfield",
 						"url": "https://smartstore.naver.com/greenfield_",
-						"icon": "mdi:apple-keyboard-option",
+						"icon": "mdi:apple-keyboard-option"
 					},
 					{
 						"name": "letsget-it",
 						"url": "https://smartstore.naver.com/letsget1t",
-						"icon": "mdi:keyboard-caps",
+						"icon": "mdi:keyboard-caps"
 					},
 					{
 						"name": "monkeytype",
 						"url": "https://monkeytype.com",
-						"icon": "mdi:keyboard-variant",
+						"icon": "mdi:keyboard-variant"
 					}
 				]
 			},
@@ -194,22 +194,22 @@
 					{
 						"name": "youtube",
 						"url": "https://youtube.com",
-						"icon": "mdi:youtube",
+						"icon": "mdi:youtube"
 					},
 					{
 						"name": "netflix",
 						"url": "https://netflix.com",
-						"icon": "mdi:netflix",
+						"icon": "mdi:netflix"
 					},
 					{
 						"name": "coupang-play",
 						"url": "https://www.coupangplay.com/home",
-						"icon": "mdi:motion-play-outline",
+						"icon": "mdi:motion-play-outline"
 					},
 					{
 						"name": "tv-room",
 						"url": "https://xn--jt2bx0hu7u.com/",
-						"icon": "mdi:tv-box",
+						"icon": "mdi:tv-box"
 					},
 					{
 						"name": "mma",
