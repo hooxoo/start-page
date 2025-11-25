@@ -25,9 +25,12 @@
 		"blur": false
 	},
 	"terminal": {
-		"fixedHeight": false,
-		"windowGlow": false,
-		"textGlow": false
+		"fixedHeight": true,
+		"windowGlow": true,
+		"windowGlowColor": "#291f3325",
+		"textGlow": false,
+		"opacity": 0,
+		"blur": 16
 	},
 	"prompt": {
 		"ctrlC": true,
