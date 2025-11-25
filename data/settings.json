@@ -19,7 +19,7 @@
 		"orange": "#d08770"
 	},
 	"wallpaper": {
-		"url": "",
+		"url": "assets/cityscape_nord.png",
 		"easing": "ease-in-out",
 		"fadeIn": false,
 		"blur": false
@@ -65,7 +65,7 @@
 	"search": {
 		"default": "https://google.com/search?q={}",
 		"target": "_self",
-		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
+		"shortcutRegex": "(!?[A-Za-z0-9]+) (.*)",
 		"shortcuts": [
 			{
 				"alias": "g",
