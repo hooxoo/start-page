@@ -19,7 +19,7 @@
 		"orange": "#d08770"
 	},
 	"wallpaper": {
-		"url": "assets/cityscape_nord.png",
+		"url": "assets/nord_skyline.png",
 		"easing": "ease-in-out",
 		"fadeIn": false,
 		"blur": false
