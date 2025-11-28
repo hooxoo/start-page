@@ -115,6 +115,11 @@
 						"icon": "mdi:account-group"
 					},
 					{
+						"name": "gallery",
+						"url": "https://gall.dcinside.com/mgallery/board/lists/?id=linux",
+						"icon": "mdi:picture-360-outline"
+					},
+					{
 						"name": "windowsforum",
 						"url": "https://windowsforum.kr",
 						"icon": "mdi:microsoft-windows"
