@@ -19,18 +19,18 @@
 		"orange": "#d08770"
 	},
 	"wallpaper": {
-		"url": "assets/nord_blackhole.png",
+		"url": "//",
 		"easing": "ease-in-out",
 		"fadeIn": false,
-		"blur": true
+		"blur": false
 	},
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": true,
 		"windowGlowColor": "#291f3325",
 		"textGlow": false,
-		"opacity": 70,
-		"blur": 16
+		"opacity": 0,
+		"blur": 0
 	},
 	"prompt": {
 		"ctrlC": true,
