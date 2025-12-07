@@ -19,17 +19,17 @@
 		"orange": "#d08770"
 	},
 	"wallpaper": {
-		"url": "assets/nord_skyline.png",
+		"url": "assets/nord_blackhole.png",
 		"easing": "ease-in-out",
 		"fadeIn": false,
-		"blur": false
+		"blur": true
 	},
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": true,
 		"windowGlowColor": "#291f3325",
 		"textGlow": false,
-		"opacity": 0,
+		"opacity": 5,
 		"blur": 10
 	},
 	"prompt": {
@@ -147,9 +147,9 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "ooAI",
-						"url": "https://oo.ai",
-						"icon": "mdi:at"
+						"name": "duck.ai",
+						"url": "https://duck.ai",
+						"icon": "mdi:duck"
 					},
 					{
 						"name": "coupang",
